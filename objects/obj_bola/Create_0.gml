@@ -4,4 +4,5 @@
 // velocidade da bola
 speed = 5;
 // direção inicial da bola (seguindo o plano cartesiano)
-direction = 180;
+randomize();
+direction = choose(45,135,225,315);

@@ -2,7 +2,10 @@
   "resources": [
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":0,},
     {"id":{"name":"spr_padle","path":"sprites/spr_padle/spr_padle.yy",},"order":1,},
+    {"id":{"name":"obj_colider","path":"objects/obj_colider/obj_colider.yy",},"order":2,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
+    {"id":{"name":"obj_raquete_two","path":"objects/obj_raquete_two/obj_raquete_two.yy",},"order":3,},
+    {"id":{"name":"spt_colider","path":"sprites/spt_colider/spt_colider.yy",},"order":3,},
     {"id":{"name":"obj_raquete","path":"objects/obj_raquete/obj_raquete.yy",},"order":0,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":15,},
     {"id":{"name":"snd_boing","path":"sounds/snd_boing/snd_boing.yy",},"order":0,},
