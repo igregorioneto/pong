@@ -4,3 +4,5 @@ if(y > 64)
 {
 	y -= 5;
 }
+
+automatico = false;

@@ -4,3 +4,5 @@ if(y < 416)
 {
 	y += 5;	
 }
+
+automatico = false;
